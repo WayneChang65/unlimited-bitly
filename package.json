@@ -1,7 +1,7 @@
 {
   "name": "unlimited-bitly",
   "version": "1.0.0",
-  "description": "The usage of extending links quota by combining multiple bitly accounts in a large number",
+  "description": "The module can combine many Bitly accounts together to be an extensible quota usage.",
   "main": "index.js",
   "files": [
     "index.js",
@@ -14,6 +14,10 @@
     "start": "node examples/demo.js",
     "lint": "eslint index.js lib/**/*.js examples/**/*.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WayneChang65/unlimited-bitly.git"
+  },
   "keywords": [
     "unlimit",
     "unlimited",
@@ -22,6 +26,10 @@
   ],
   "author": "WayneChang65",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WayneChang65/unlimited-bitly/issues"
+  },
+  "homepage": "https://github.com/WayneChang65/unlimited-bitly#readme",
   "devDependencies": {
     "eslint": "^6.1.0"
   },
