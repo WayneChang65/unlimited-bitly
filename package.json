@@ -1,0 +1,32 @@
+{
+  "name": "unlimited-bitly",
+  "version": "1.0.0",
+  "description": "The usage of extending links quota by combining multiple bitly accounts in a large number",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/**"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node examples/demo.js",
+    "lint": "eslint index.js lib/**/*.js examples/**/*.js"
+  },
+  "keywords": [
+    "unlimit",
+    "unlimited",
+    "bitly",
+    "multiple"
+  ],
+  "author": "WayneChang65",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  },
+  "dependencies": {
+    "@waynechang65/fml-consolelog": "^1.1.0",
+    "bitly": "^6.1.0"
+  }
+}
