@@ -1,5 +1,5 @@
 {
-  "name": "unlimited-bitly",
+  "name": "@waynechang65/unlimited-bitly",
   "version": "1.0.0",
   "description": "The module can combine many Bitly accounts together to be an extensible quota usage.",
   "main": "index.js",
