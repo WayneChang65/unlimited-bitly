@@ -59,7 +59,7 @@ Install dependencies in the cloned unlimited-bitly folder
 npm install
 ```
 
-* 將Bitly Key增加TOSMM_BITLY_1_KEY~TOSMM_BITLY_4_KEY的環境變數中。  
+* 將Bitly Key增加TOSMM_BITLY_1_KEY-TOSMM_BITLY_4_KEY的環境變數中。  
 Add Bitly Key to env variables(TOSMM_BITLY_1_KEY~TOSMM_BITLY_4_KEY).
 
 * 透過 npm 直接使用以下指令。(實際範例程式在 ./examples/demo.js)  
