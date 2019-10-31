@@ -79,6 +79,11 @@ npm start
 * shorten(longUrl): 進行取得短網址, get shortened url  
 > longUrl: 欲縮成短網址的長網址, long url which wants to shorten    
 
+* getAccountsStatus(): 取得所有帳號的狀態, get all accounts status  
+> return object {valid, total}:  
+>> valid: 有效帳號個數, number of valid accounts  
+>> total: 所有帳號個數, number of total accounts  
+
 ## 參考網站 (Reference)
 * [Bitly](https://bitly.com)  
 
