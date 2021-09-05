@@ -1,6 +1,5 @@
 [![npm](https://img.shields.io/npm/v/@waynechang65/unlimited-bitly.svg)](https://www.npmjs.com/package/@waynechang65/unlimited-bitly)
 [![npm](https://img.shields.io/npm/dm/@waynechang65/unlimited-bitly.svg)](https://www.npmjs.com/package/@waynechang65/unlimited-bitly)
-[![Build Status](https://travis-ci.org/WayneChang65/unlimited-bitly.svg?branch=master)](https://travis-ci.org/WayneChang65/unlimited-bitly)
 [![GitHub](https://img.shields.io/github/license/waynechang65/unlimited-bitly.svg)](https://github.com/WayneChang65/unlimited-bitly/)
 # unlimited-bitly
 unlimited-bitly 是一個將**多個**[Bitly](https://bitly.com)帳號的轉短址額度結合起來而成為**一個較大且幾乎可無限擴充額度容量**的模組。  
