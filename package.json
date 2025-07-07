@@ -1,6 +1,6 @@
 {
   "name": "@waynechang65/unlimited-bitly",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "The module can combine many Bitly accounts together to be an extensible quota usage.",
   "main": "index.js",
   "files": [
@@ -35,6 +35,6 @@
   },
   "dependencies": {
     "@waynechang65/fml-consolelog": "^1.1.0",
-    "bitly": "^7.1.2"
+    "bitly": "https://github.com/WayneChang65/node-bitly/raw/main-wayne/bitly-7.1.3-wayne.tgz"
   }
 }
